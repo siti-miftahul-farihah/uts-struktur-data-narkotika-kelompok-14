@@ -1,12 +1,13 @@
 package org.example;
 
+import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.time.LocalDate;
-import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+    public static void main(String[] args) throws IOException {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         PutusanLinkedList listAwal;
 
         try {
@@ -34,7 +35,7 @@ public class Main {
             System.out.println("0. Keluar");
             System.out.print("Pilih menu: ");
 
-            String pilihan = scanner.nextLine().trim();
+            String pilihan = bacaBaris(reader).trim();
 
             switch (pilihan) {
                 case "1":
@@ -44,7 +45,7 @@ public class Main {
 
                 case "2":
                     System.out.print("Masukkan caseId (misal P025) atau Nomor Perkara: ");
-                    String keyword = scanner.nextLine();
+                    String keyword = bacaBaris(reader);
                     PutusanService.SearchResult hasilCari = service.cariPutusan(keyword);
                     if (hasilCari.getPutusan() != null) {
                         System.out.println("DITEMUKAN dalam " + hasilCari.getSteps() + " langkah:");
@@ -56,17 +57,17 @@ public class Main {
 
                 case "3":
                     System.out.print("Jenis Narkotika (kosongkan jika semua): ");
-                    String jenis = scanner.nextLine();
+                    String jenis = bacaBaris(reader);
                     System.out.print("Berat Minimum gram (kosongkan jika bebas): ");
-                    Double minBerat = parseDoubleNullable(scanner.nextLine());
+                    Double minBerat = parseDoubleNullable(bacaBaris(reader));
                     System.out.print("Berat Maksimum gram (kosongkan jika bebas): ");
-                    Double maxBerat = parseDoubleNullable(scanner.nextLine());
+                    Double maxBerat = parseDoubleNullable(bacaBaris(reader));
                     System.out.print("Pasal Terbukti (kosongkan jika semua): ");
-                    String pasal = scanner.nextLine();
+                    String pasal = bacaBaris(reader);
                     System.out.print("Vonis Minimum bulan (kosongkan jika bebas): ");
-                    Integer minVonis = parseIntNullable(scanner.nextLine());
+                    Integer minVonis = parseIntNullable(bacaBaris(reader));
                     System.out.print("Vonis Maksimum bulan (kosongkan jika bebas): ");
-                    Integer maxVonis = parseIntNullable(scanner.nextLine());
+                    Integer maxVonis = parseIntNullable(bacaBaris(reader));
 
                     PutusanLinkedList hasilFilter = service.filterGabungan(jenis, minBerat, maxBerat, pasal, minVonis, maxVonis);
                     System.out.println("Hasil Filter (" + hasilFilter.size() + " putusan):");
@@ -87,7 +88,7 @@ public class Main {
 
                 case "5":
                     System.out.print("Urutkan dari (1) Terkecil ke Terbesar, atau (2) Terbesar ke Terkecil? ");
-                    boolean asc = !"2".equals(scanner.nextLine().trim());
+                    boolean asc = !"2".equals(bacaBaris(reader).trim());
                     PutusanLinkedList terurut = service.urutkanBerdasarkanVonis(asc);
                     tampilkanList(terurut);
                     break;
@@ -95,21 +96,21 @@ public class Main {
                 case "6":
                     try {
                         System.out.print("Case ID (misal P051): ");
-                        String id = scanner.nextLine().trim();
+                        String id = bacaBaris(reader).trim();
                         System.out.print("Nomor Perkara: ");
-                        String noPerkara = scanner.nextLine().trim();
+                        String noPerkara = bacaBaris(reader).trim();
                         System.out.print("Pengadilan: ");
-                        String pengadilan = scanner.nextLine().trim();
+                        String pengadilan = bacaBaris(reader).trim();
                         System.out.print("Jenis Narkotika: ");
-                        String jns = scanner.nextLine().trim();
+                        String jns = bacaBaris(reader).trim();
                         System.out.print("Berat Barang Bukti (gram): ");
-                        double berat = Double.parseDouble(scanner.nextLine().trim());
+                        double berat = Double.parseDouble(bacaBaris(reader).trim());
                         System.out.print("Pasal Terbukti: ");
-                        String psl = scanner.nextLine().trim();
+                        String psl = bacaBaris(reader).trim();
                         System.out.print("Vonis Penjara (bulan): ");
-                        int vonis = Integer.parseInt(scanner.nextLine().trim());
+                        int vonis = Integer.parseInt(bacaBaris(reader).trim());
                         System.out.print("Denda (Rupiah): ");
-                        long denda = Long.parseLong(scanner.nextLine().trim());
+                        long denda = Long.parseLong(bacaBaris(reader).trim());
 
                         PutusanNarkotika baru = new PutusanNarkotika(
                                 id, noPerkara, pengadilan, LocalDate.now(), "T-BARU",
@@ -126,7 +127,7 @@ public class Main {
                 case "7":
                     try {
                         System.out.print("Masukkan indeks yang akan dihapus (0 s.d. " + (service.getDaftarPutusan().size() - 1) + "): ");
-                        int idx = Integer.parseInt(scanner.nextLine().trim());
+                        int idx = Integer.parseInt(bacaBaris(reader).trim());
                         PutusanNarkotika dihapus = service.hapusPutusan(idx);
                         System.out.println("Berhasil menghapus: " + dihapus);
                     } catch (Exception e) {
@@ -166,6 +167,11 @@ public class Main {
                     System.out.println("Pilihan tidak dikenali.");
             }
         }
+    }
+
+    private static String bacaBaris(BufferedReader reader) throws IOException {
+        String baris = reader.readLine();
+        return baris == null ? "" : baris;
     }
 
     private static void tampilkanList(PutusanLinkedList list) {
