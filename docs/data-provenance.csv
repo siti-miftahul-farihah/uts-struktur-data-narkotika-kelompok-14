@@ -1,0 +1,451 @@
+case_id,field_name,value,source_file,source_page,extractor,reviewer,status
+P001,nomorPerkara,40/Pid.Sus/2026/PN Bks,putusan_narkotika_001.pdf,1,Farihah,Farihah,verified
+P001,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_001.pdf,1,Farihah,Farihah,verified
+P001,tanggalPutusan,2026-04-01,putusan_narkotika_001.pdf,25,Farihah,Farihah,verified
+P001,jenisNarkotika,Metamfetamina; MDMB-4en PINACA,putusan_narkotika_001.pdf,6,Farihah,Farihah,verified
+P001,beratBarangBuktiGram,2.50,putusan_narkotika_001.pdf,3,Farihah,Farihah,verified
+P001,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2026,putusan_narkotika_001.pdf,24,Farihah,Farihah,verified
+P001,tuntutanBulan,84,putusan_narkotika_001.pdf,2,Farihah,Farihah,verified
+P001,vonisBulan,60,putusan_narkotika_001.pdf,24,Farihah,Farihah,verified
+P001,dendaRupiah,1000000000,putusan_narkotika_001.pdf,24,Farihah,Farihah,verified
+P002,nomorPerkara,60/Pid.Sus/2026/PN Bks,putusan_narkotika_002.pdf,1,Farihah,Farihah,verified
+P002,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_002.pdf,1,Farihah,Farihah,verified
+P002,tanggalPutusan,2026-04-08,putusan_narkotika_002.pdf,26,Farihah,Farihah,verified
+P002,jenisNarkotika,Metamfetamina,putusan_narkotika_002.pdf,7,Farihah,Farihah,verified
+P002,beratBarangBuktiGram,107.38,putusan_narkotika_002.pdf,18,Farihah,Farihah,verified
+P002,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 jo UU No. 1 Tahun 2026,putusan_narkotika_002.pdf,25,Farihah,Farihah,verified
+P002,tuntutanBulan,120,putusan_narkotika_002.pdf,2,Farihah,Farihah,verified
+P002,vonisBulan,108,putusan_narkotika_002.pdf,25,Farihah,Farihah,verified
+P002,dendaRupiah,1000000000,putusan_narkotika_002.pdf,25,Farihah,Farihah,verified
+P003,nomorPerkara,64/Pid.Sus/2026/PN Bks,putusan_narkotika_003.pdf,1,Farihah,Farihah,verified
+P003,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_003.pdf,1,Farihah,Farihah,verified
+P003,tanggalPutusan,2026-04-13,putusan_narkotika_003.pdf,28,Farihah,Farihah,verified
+P003,jenisNarkotika,Ganja,putusan_narkotika_003.pdf,7,Farihah,Farihah,verified
+P003,beratBarangBuktiGram,4114.7,putusan_narkotika_003.pdf,3,Farihah,Farihah,verified
+P003,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2026,putusan_narkotika_003.pdf,27,Farihah,Farihah,verified
+P003,tuntutanBulan,108,putusan_narkotika_003.pdf,2,Farihah,Farihah,verified
+P003,vonisBulan,84,putusan_narkotika_003.pdf,27,Farihah,Farihah,verified
+P003,dendaRupiah,1000000000,putusan_narkotika_003.pdf,27,Farihah,Farihah,verified
+P004,nomorPerkara,69/Pid.Sus/2026/PN Bks,putusan_narkotika_004.pdf,1,Farihah,Farihah,verified
+P004,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_004.pdf,1,Farihah,Farihah,verified
+P004,tanggalPutusan,2026-05-04,putusan_narkotika_004.pdf,31,Farihah,Farihah,verified
+P004,jenisNarkotika,Metamfetamina,putusan_narkotika_004.pdf,6,Farihah,Farihah,verified
+P004,beratBarangBuktiGram,25.43,putusan_narkotika_004.pdf,3,Farihah,Farihah,verified
+P004,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2026,putusan_narkotika_004.pdf,30,Farihah,Farihah,verified
+P004,tuntutanBulan,108,putusan_narkotika_004.pdf,2,Farihah,Farihah,verified
+P004,vonisBulan,84,putusan_narkotika_004.pdf,30,Farihah,Farihah,verified
+P004,dendaRupiah,1000000000,putusan_narkotika_004.pdf,30,Farihah,Farihah,verified
+P005,nomorPerkara,72/Pid.Sus/2026/PN Bks,putusan_narkotika_005.pdf,1,Farihah,Farihah,verified
+P005,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_005.pdf,1,Farihah,Farihah,verified
+P005,tanggalPutusan,2026-05-04,putusan_narkotika_005.pdf,32,Farihah,Farihah,verified
+P005,jenisNarkotika,MDMB-4en PINACA,putusan_narkotika_005.pdf,6,Farihah,Farihah,verified
+P005,beratBarangBuktiGram,213.1001,putusan_narkotika_005.pdf,6,Farihah,Farihah,verified
+P005,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2026,putusan_narkotika_005.pdf,31,Farihah,Farihah,verified
+P005,tuntutanBulan,90,putusan_narkotika_005.pdf,2,Farihah,Farihah,verified
+P005,vonisBulan,78,putusan_narkotika_005.pdf,31,Farihah,Farihah,verified
+P005,dendaRupiah,1000000000,putusan_narkotika_005.pdf,31,Farihah,Farihah,verified
+P006,nomorPerkara,73/Pid.Sus/2025/PN Bks,putusan_narkotika_006_4.pdf,1,Farihah,Farihah,verified
+P006,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_006_4.pdf,1,Farihah,Farihah,verified
+P006,tanggalPutusan,2026-04-27,putusan_narkotika_006_4.pdf,18,Farihah,Farihah,verified
+P006,jenisNarkotika,Metamfetamina,putusan_narkotika_006_4.pdf,5,Farihah,Farihah,verified
+P006,beratBarangBuktiGram,2.3876,putusan_narkotika_006_4.pdf,5,Farihah,Farihah,verified
+P006,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 jo UU No. 1 Tahun 2026,putusan_narkotika_006_4.pdf,17,Farihah,Farihah,verified
+P006,tuntutanBulan,90,putusan_narkotika_006_4.pdf,2,Farihah,Farihah,verified
+P006,vonisBulan,72,putusan_narkotika_006_4.pdf,17,Farihah,Farihah,verified
+P006,dendaRupiah,0,putusan_narkotika_006_4.pdf,17,Farihah,Farihah,verified
+P007,nomorPerkara,76/Pid.Sus/2026/PN Bks,putusan_narkotika_007_4.pdf,1,Farihah,Farihah,verified
+P007,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_007_4.pdf,1,Farihah,Farihah,verified
+P007,tanggalPutusan,2026-05-20,putusan_narkotika_007_4.pdf,19,Farihah,Farihah,verified
+P007,jenisNarkotika,Metamfetamina,putusan_narkotika_007_4.pdf,5,Farihah,Farihah,verified
+P007,beratBarangBuktiGram,6.6905,putusan_narkotika_007_4.pdf,5,Farihah,Farihah,verified
+P007,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 jo UU No. 1 Tahun 2026,putusan_narkotika_007_4.pdf,18,Farihah,Farihah,verified
+P007,tuntutanBulan,108,putusan_narkotika_007_4.pdf,2,Farihah,Farihah,verified
+P007,vonisBulan,96,putusan_narkotika_007_4.pdf,18,Farihah,Farihah,verified
+P007,dendaRupiah,2025000000,putusan_narkotika_007_4.pdf,18,Farihah,Farihah,verified
+P008,nomorPerkara,81/Pid.Sus/2026/PN Bks,putusan_narkotika_008_4.pdf,1,Farihah,Farihah,verified
+P008,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_008_4.pdf,1,Farihah,Farihah,verified
+P008,tanggalPutusan,2026-05-06,putusan_narkotika_008_4.pdf,22,Farihah,Farihah,verified
+P008,jenisNarkotika,MDMB-4en PINACA,putusan_narkotika_008_4.pdf,5,Farihah,Farihah,verified
+P008,beratBarangBuktiGram,51.6348,putusan_narkotika_008_4.pdf,5,Farihah,Farihah,verified
+P008,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 jo UU No. 1 Tahun 2026,putusan_narkotika_008_4.pdf,21,Farihah,Farihah,verified
+P008,tuntutanBulan,84,putusan_narkotika_008_4.pdf,2,Farihah,Farihah,verified
+P008,vonisBulan,48,putusan_narkotika_008_4.pdf,21,Farihah,Farihah,verified
+P008,dendaRupiah,1000000000,putusan_narkotika_008_4.pdf,21,Farihah,Farihah,verified
+P009,nomorPerkara,83/Pid.Sus/2026/PN Bks,putusan_narkotika_009_4.pdf,1,Farihah,Farihah,verified
+P009,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_009_4.pdf,1,Farihah,Farihah,verified
+P009,tanggalPutusan,2026-04-22,putusan_narkotika_009_4.pdf,29,Farihah,Farihah,verified
+P009,jenisNarkotika,MDMB-4en PINACA,putusan_narkotika_009_4.pdf,5,Farihah,Farihah,verified
+P009,beratBarangBuktiGram,8.5771,putusan_narkotika_009_4.pdf,6,Farihah,Farihah,verified
+P009,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 jo UU No. 1 Tahun 2026,putusan_narkotika_009_4.pdf,28,Farihah,Farihah,verified
+P009,tuntutanBulan,96,putusan_narkotika_009_4.pdf,2,Farihah,Farihah,verified
+P009,vonisBulan,60,putusan_narkotika_009_4.pdf,28,Farihah,Farihah,verified
+P009,dendaRupiah,0,putusan_narkotika_009_4.pdf,28,Farihah,Farihah,verified
+P010,nomorPerkara,84/Pid.Sus/2026/PN Bks,putusan_narkotika_010_4.pdf,1,Farihah,Farihah,verified
+P010,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_010_4.pdf,1,Farihah,Farihah,verified
+P010,tanggalPutusan,2026-04-22,putusan_narkotika_010_4.pdf,29,Farihah,Farihah,verified
+P010,jenisNarkotika,MDMB-4en PINACA,putusan_narkotika_010_4.pdf,6,Farihah,Farihah,verified
+P010,beratBarangBuktiGram,1.9213,putusan_narkotika_010_4.pdf,6,Farihah,Farihah,verified
+P010,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 jo UU No. 1 Tahun 2026,putusan_narkotika_010_4.pdf,28,Farihah,Farihah,verified
+P010,tuntutanBulan,84,putusan_narkotika_010_4.pdf,2,Farihah,Farihah,verified
+P010,vonisBulan,60,putusan_narkotika_010_4.pdf,28,Farihah,Farihah,verified
+P010,dendaRupiah,0,putusan_narkotika_010_4.pdf,28,Farihah,Farihah,verified
+P011,nomorPerkara,85/Pid.Sus/2026/PN Bks,putusan_narkotika_011_2.pdf,1,Farihah,Farihah,verified
+P011,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_011_2.pdf,1,Farihah,Farihah,verified
+P011,tanggalPutusan,2026-05-06,putusan_narkotika_011_2.pdf,32,Farihah,Farihah,verified
+P011,jenisNarkotika,Ganja,putusan_narkotika_011_2.pdf,7,Farihah,Farihah,verified
+P011,beratBarangBuktiGram,14640,putusan_narkotika_011_2.pdf,6,Farihah,Farihah,verified
+P011,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 jo UU No. 1 Tahun 2026,putusan_narkotika_011_2.pdf,31,Farihah,Farihah,verified
+P011,tuntutanBulan,144,putusan_narkotika_011_2.pdf,2,Farihah,Farihah,verified
+P011,vonisBulan,96,putusan_narkotika_011_2.pdf,31,Farihah,Farihah,verified
+P011,dendaRupiah,0,putusan_narkotika_011_2.pdf,31,Farihah,Farihah,verified
+P012,nomorPerkara,88/Pid.Sus/2026/PN Bks,putusan_narkotika_012_2.pdf,1,Farihah,Farihah,verified
+P012,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_012_2.pdf,1,Farihah,Farihah,verified
+P012,tanggalPutusan,2026-06-24,putusan_narkotika_012_2.pdf,118,Farihah,Farihah,verified
+P012,jenisNarkotika,MDMB-4en PINACA,putusan_narkotika_012_2.pdf,49,Farihah,Farihah,verified
+P012,beratBarangBuktiGram,5.3043,putusan_narkotika_012_2.pdf,48,Farihah,Farihah,verified
+P012,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 jo UU No. 1 Tahun 2026,putusan_narkotika_012_2.pdf,117,Farihah,Farihah,verified
+P012,tuntutanBulan,84,putusan_narkotika_012_2.pdf,2,Farihah,Farihah,verified
+P012,vonisBulan,60,putusan_narkotika_012_2.pdf,117,Farihah,Farihah,verified
+P012,dendaRupiah,0,putusan_narkotika_012_2.pdf,117,Farihah,Farihah,verified
+P013,nomorPerkara,92/Pid.Sus/2026/PN Bks,putusan_narkotika_013.pdf,1,Farihah,Farihah,verified
+P013,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_013.pdf,1,Farihah,Farihah,verified
+P013,tanggalPutusan,2026-06-10,putusan_narkotika_013.pdf,28,Farihah,Farihah,verified
+P013,jenisNarkotika,Ganja,putusan_narkotika_013.pdf,7,Farihah,Farihah,verified
+P013,beratBarangBuktiGram,470.26,putusan_narkotika_013.pdf,27,Farihah,Farihah,verified
+P013,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 jo UU No. 1 Tahun 2026,putusan_narkotika_013.pdf,27,Farihah,Farihah,verified
+P013,tuntutanBulan,84,putusan_narkotika_013.pdf,2,Farihah,Farihah,verified
+P013,vonisBulan,48,putusan_narkotika_013.pdf,27,Farihah,Farihah,verified
+P013,dendaRupiah,0,putusan_narkotika_013.pdf,27,Farihah,Farihah,verified
+P014,nomorPerkara,95/Pid.Sus/2026/PN Bks,putusan_narkotika_014.pdf,1,Farihah,Farihah,verified
+P014,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_014.pdf,1,Farihah,Farihah,verified
+P014,tanggalPutusan,2026-04-29,putusan_narkotika_014.pdf,23,Farihah,Farihah,verified
+P014,jenisNarkotika,Metamfetamina,putusan_narkotika_014.pdf,5,Farihah,Farihah,verified
+P014,beratBarangBuktiGram,19.32,putusan_narkotika_014.pdf,23,Farihah,Farihah,verified
+P014,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009,putusan_narkotika_014.pdf,22,Farihah,Farihah,verified
+P014,tuntutanBulan,96,putusan_narkotika_014.pdf,2,Farihah,Farihah,verified
+P014,vonisBulan,84,putusan_narkotika_014.pdf,22,Farihah,Farihah,verified
+P014,dendaRupiah,1000000000,putusan_narkotika_014.pdf,22,Farihah,Farihah,verified
+P015,nomorPerkara,102/Pid.Sus/2025/PN Bks,putusan_narkotika_015.pdf,1,Farihah,Farihah,verified
+P015,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_015.pdf,1,Farihah,Farihah,verified
+P015,tanggalPutusan,2025-05-21,putusan_narkotika_015.pdf,45,Farihah,Farihah,verified
+P015,jenisNarkotika,MDMB-4en PINACA,putusan_narkotika_015.pdf,7,Farihah,Farihah,verified
+P015,beratBarangBuktiGram,37.47,putusan_narkotika_015.pdf,44,Farihah,Farihah,verified
+P015,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009,putusan_narkotika_015.pdf,44,Farihah,Farihah,verified
+P015,tuntutanBulan,132,putusan_narkotika_015.pdf,2,Farihah,Farihah,verified
+P015,vonisBulan,108,putusan_narkotika_015.pdf,44,Farihah,Farihah,verified
+P015,dendaRupiah,1000000000,putusan_narkotika_015.pdf,44,Farihah,Farihah,verified
+P016,nomorPerkara,105/Pid.Sus/2026/PN Bks,putusan_narkotika_016.pdf,1,Farihah,Farihah,verified
+P016,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_016.pdf,1,Farihah,Farihah,verified
+P016,tanggalPutusan,2026-06-10,putusan_narkotika_016.pdf,30,Farihah,Farihah,verified
+P016,jenisNarkotika,Metamfetamina,putusan_narkotika_016.pdf,5,Farihah,Farihah,verified
+P016,beratBarangBuktiGram,43.5593,putusan_narkotika_016.pdf,5,Farihah,Farihah,verified
+P016,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2026,putusan_narkotika_016.pdf,30,Farihah,Farihah,verified
+P016,tuntutanBulan,168,putusan_narkotika_016.pdf,2,Farihah,Farihah,verified
+P016,vonisBulan,144,putusan_narkotika_016.pdf,30,Farihah,Farihah,verified
+P016,dendaRupiah,2600000000,putusan_narkotika_016.pdf,30,Farihah,Farihah,verified
+P017,nomorPerkara,106/Pid.Sus/2026/PN Bks,putusan_narkotika_017.pdf,1,Farihah,Farihah,verified
+P017,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_017.pdf,1,Farihah,Farihah,verified
+P017,tanggalPutusan,2026-05-20,putusan_narkotika_017.pdf,55,Farihah,Farihah,verified
+P017,jenisNarkotika,Ganja,putusan_narkotika_017.pdf,12,Farihah,Farihah,verified
+P017,beratBarangBuktiGram,1564.0288,putusan_narkotika_017.pdf,12,Farihah,Farihah,verified
+P017,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2026,putusan_narkotika_017.pdf,53,Farihah,Farihah,verified
+P017,tuntutanBulan,120,putusan_narkotika_017.pdf,3,Farihah,Farihah,verified
+P017,vonisBulan,108,putusan_narkotika_017.pdf,53,Farihah,Farihah,verified
+P017,dendaRupiah,2600000000,putusan_narkotika_017.pdf,53,Farihah,Farihah,verified
+P018,nomorPerkara,107/Pid.Sus/2025/PN Bks,putusan_narkotika_018.pdf,1,Farihah,Farihah,verified
+P018,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_018.pdf,1,Farihah,Farihah,verified
+P018,tanggalPutusan,2025-05-19,putusan_narkotika_018.pdf,56,Farihah,Farihah,verified
+P018,jenisNarkotika,MDMA,putusan_narkotika_018.pdf,10,Farihah,Farihah,verified
+P018,beratBarangBuktiGram,97.8158,putusan_narkotika_018.pdf,10,Farihah,Farihah,verified
+P018,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009,putusan_narkotika_018.pdf,53,Farihah,Farihah,verified
+P018,tuntutanBulan,168,putusan_narkotika_018.pdf,2,Farihah,Farihah,verified
+P018,vonisBulan,132,putusan_narkotika_018.pdf,53,Farihah,Farihah,verified
+P018,dendaRupiah,1000000000,putusan_narkotika_018.pdf,53,Farihah,Farihah,verified
+P019,nomorPerkara,112/Pid.Sus/2026/PN Bks,putusan_narkotika_019_2.pdf,1,Farihah,Farihah,verified
+P019,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_019_2.pdf,1,Farihah,Farihah,verified
+P019,tanggalPutusan,2026-05-25,putusan_narkotika_019_2.pdf,28,Farihah,Farihah,verified
+P019,jenisNarkotika,Metamfetamina,putusan_narkotika_019_2.pdf,6,Farihah,Farihah,verified
+P019,beratBarangBuktiGram,35,putusan_narkotika_019_2.pdf,5,Farihah,Farihah,verified
+P019,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009 jo. UU No. 1 Tahun 2023 KUHP jo. UU No. 1 Tahun 2026,putusan_narkotika_019_2.pdf,26,Farihah,Farihah,verified
+P019,tuntutanBulan,108,putusan_narkotika_019_2.pdf,2,Farihah,Farihah,verified
+P019,vonisBulan,84,putusan_narkotika_019_2.pdf,28,Farihah,Farihah,verified
+P019,dendaRupiah,1000000000,putusan_narkotika_019_2.pdf,28,Farihah,Farihah,verified
+P020,nomorPerkara,123/Pid.Sus/2026/PN Bks,putusan_narkotika_020_2.pdf,1,Farihah,Farihah,verified
+P020,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_020_2.pdf,1,Farihah,Farihah,verified
+P020,tanggalPutusan,2026-05-20,putusan_narkotika_020_2.pdf,28,Farihah,Farihah,verified
+P020,jenisNarkotika,Metamfetamina,putusan_narkotika_020_2.pdf,5,Farihah,Farihah,verified
+P020,beratBarangBuktiGram,14.1460,putusan_narkotika_020_2.pdf,5,Farihah,Farihah,verified
+P020,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 jo. UU RI No. 1 Tahun 2023 KUHP jo. UU RI No. 1 Tahun 2026,putusan_narkotika_020_2.pdf,26,Farihah,Farihah,verified
+P020,tuntutanBulan,108,putusan_narkotika_020_2.pdf,2,Farihah,Farihah,verified
+P020,vonisBulan,84,putusan_narkotika_020_2.pdf,27,Farihah,Farihah,verified
+P020,dendaRupiah,1000000000,putusan_narkotika_020_2.pdf,27,Farihah,Farihah,verified
+P021,nomorPerkara,125/Pid.Sus/2025/PN Bks,putusan_narkotika_021.pdf,1,Farihah,Farihah,verified
+P021,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_021.pdf,1,Farihah,Farihah,verified
+P021,tanggalPutusan,2025-05-21,putusan_narkotika_021.pdf,55,Farihah,Farihah,verified
+P021,jenisNarkotika,Metamfetamina,putusan_narkotika_021.pdf,8,Farihah,Farihah,verified
+P021,beratBarangBuktiGram,1.8110,putusan_narkotika_021.pdf,7,Farihah,Farihah,verified
+P021,pasalTerbukti,Pasal 114 ayat (1) jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009,putusan_narkotika_021.pdf,52,Farihah,Farihah,verified
+P021,tuntutanBulan,96,putusan_narkotika_021.pdf,2,Farihah,Farihah,verified
+P021,vonisBulan,84,putusan_narkotika_021.pdf,55,Farihah,Farihah,verified
+P021,dendaRupiah,1000000000,putusan_narkotika_021.pdf,55,Farihah,Farihah,verified
+P022,nomorPerkara,126/Pid.Sus/2025/PN Bks,putusan_narkotika_022.pdf,1,Farihah,Farihah,verified
+P022,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_022.pdf,1,Farihah,Farihah,verified
+P022,tanggalPutusan,2025-05-21,putusan_narkotika_022.pdf,54,Farihah,Farihah,verified
+P022,jenisNarkotika,Metamfetamina,putusan_narkotika_022.pdf,8,Farihah,Farihah,verified
+P022,beratBarangBuktiGram,1.8110,putusan_narkotika_022.pdf,7,Farihah,Farihah,verified
+P022,pasalTerbukti,Pasal 114 ayat (1) jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009,putusan_narkotika_022.pdf,51,Farihah,Farihah,verified
+P022,tuntutanBulan,96,putusan_narkotika_022.pdf,2,Farihah,Farihah,verified
+P022,vonisBulan,84,putusan_narkotika_022.pdf,53,Farihah,Farihah,verified
+P022,dendaRupiah,1000000000,putusan_narkotika_022.pdf,53,Farihah,Farihah,verified
+P023,nomorPerkara,127/Pid.Sus/2025/PN Bks,putusan_narkotika_023.pdf,1,Farihah,Farihah,verified
+P023,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_023.pdf,1,Farihah,Farihah,verified
+P023,tanggalPutusan,2025-05-21,putusan_narkotika_023.pdf,66,Farihah,Farihah,verified
+P023,jenisNarkotika,Metamfetamina,putusan_narkotika_023.pdf,10,Farihah,Farihah,verified
+P023,beratBarangBuktiGram,1.8110,putusan_narkotika_023.pdf,10,Farihah,Farihah,verified
+P023,pasalTerbukti,Pasal 114 ayat (1) jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009,putusan_narkotika_023.pdf,62,Farihah,Farihah,verified
+P023,tuntutanBulan,96,putusan_narkotika_023.pdf,2,Farihah,Farihah,verified
+P023,vonisBulan,84,putusan_narkotika_023.pdf,65,Farihah,Farihah,verified
+P023,dendaRupiah,1000000000,putusan_narkotika_023.pdf,65,Farihah,Farihah,verified
+P024,nomorPerkara,131/Pid.Sus/2025/PN Bks,putusan_narkotika_024.pdf,1,Farihah,Farihah,verified
+P024,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_024.pdf,1,Farihah,Farihah,verified
+P024,tanggalPutusan,2025-06-18,putusan_narkotika_024.pdf,22,Farihah,Farihah,verified
+P024,jenisNarkotika,Ganja,putusan_narkotika_024.pdf,7,Farihah,Farihah,verified
+P024,beratBarangBuktiGram,1696,putusan_narkotika_024.pdf,6,Farihah,Farihah,verified
+P024,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009,putusan_narkotika_024.pdf,20,Farihah,Farihah,verified
+P024,tuntutanBulan,108,putusan_narkotika_024.pdf,2,Farihah,Farihah,verified
+P024,vonisBulan,84,putusan_narkotika_024.pdf,21,Farihah,Farihah,verified
+P024,dendaRupiah,1000000000,putusan_narkotika_024.pdf,21,Farihah,Farihah,verified
+P025,nomorPerkara,136/Pid.Sus/2026/PN Bks,putusan_narkotika_025.pdf,1,Farihah,Farihah,verified
+P025,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_025.pdf,1,Farihah,Farihah,verified
+P025,tanggalPutusan,2026-08-12,putusan_narkotika_025.pdf,115,Farihah,Farihah,verified
+P025,jenisNarkotika,Metamfetamina,putusan_narkotika_025.pdf,16,Farihah,Farihah,verified
+P025,beratBarangBuktiGram,997.54,putusan_narkotika_025.pdf,4,Farihah,Farihah,verified
+P025,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 tentang KUHP jo UU No. 1 Tahun 2026 tentang Penyesuaian Pidana,putusan_narkotika_025.pdf,109,Farihah,Farihah,verified
+P025,tuntutanBulan,168,putusan_narkotika_025.pdf,2,Farihah,Farihah,verified
+P025,vonisBulan,144,putusan_narkotika_025.pdf,112,Farihah,Farihah,verified
+P025,dendaRupiah,1000000000,putusan_narkotika_025.pdf,113,Farihah,Farihah,verified
+P026,nomorPerkara,137/Pid.Sus/2026/PN Bks,putusan_narkotika_026.pdf,1,Farihah,Farihah,verified
+P026,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_026.pdf,1,Farihah,Farihah,verified
+P026,tanggalPutusan,2026-08-12,putusan_narkotika_026.pdf,77,Farihah,Farihah,verified
+P026,jenisNarkotika,Metamfetamina,putusan_narkotika_026.pdf,14,Farihah,Farihah,verified
+P026,beratBarangBuktiGram,997.54,putusan_narkotika_026.pdf,4,Farihah,Farihah,verified
+P026,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 tentang KUHP jo UU No. 1 Tahun 2026 tentang Penyesuaian Pidana,putusan_narkotika_026.pdf,74,Farihah,Farihah,verified
+P026,tuntutanBulan,144,putusan_narkotika_026.pdf,2,Farihah,Farihah,verified
+P026,vonisBulan,96,putusan_narkotika_026.pdf,74,Farihah,Farihah,verified
+P026,dendaRupiah,1000000000,putusan_narkotika_026.pdf,74,Farihah,Farihah,verified
+P027,nomorPerkara,140/Pid.Sus/2025/PN Bks,putusan_narkotika_027_2.pdf,1,Farihah,Farihah,verified
+P027,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_027_2.pdf,1,Farihah,Farihah,verified
+P027,tanggalPutusan,2025-05-21,putusan_narkotika_027_2.pdf,37,Farihah,Farihah,verified
+P027,jenisNarkotika,Metamfetamina,putusan_narkotika_027_2.pdf,6,Farihah,Farihah,verified
+P027,beratBarangBuktiGram,2.97,putusan_narkotika_027_2.pdf,11,Farihah,Farihah,verified
+P027,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_narkotika_027_2.pdf,36,Farihah,Farihah,verified
+P027,tuntutanBulan,96,putusan_narkotika_027_2.pdf,2,Farihah,Farihah,verified
+P027,vonisBulan,90,putusan_narkotika_027_2.pdf,36,Farihah,Farihah,verified
+P027,dendaRupiah,1000000000,putusan_narkotika_027_2.pdf,36,Farihah,Farihah,verified
+P028,nomorPerkara,161/Pid.Sus/2026/PN Bks,putusan_narkotika_028.pdf,1,Farihah,Farihah,verified
+P028,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_028.pdf,1,Farihah,Farihah,verified
+P028,tanggalPutusan,2026-06-10,putusan_narkotika_028.pdf,26,Farihah,Farihah,verified
+P028,jenisNarkotika,Metamfetamina,putusan_narkotika_028.pdf,7,Farihah,Farihah,verified
+P028,beratBarangBuktiGram,7.02,putusan_narkotika_028.pdf,7,Farihah,Farihah,verified
+P028,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika jo UU No. 1 Tahun 2023 tentang KUHP jo UU No. 1 Tahun 2026 tentang Penyesuaian Pidana,putusan_narkotika_028.pdf,24,Farihah,Farihah,verified
+P028,tuntutanBulan,96,putusan_narkotika_028.pdf,3,Farihah,Farihah,verified
+P028,vonisBulan,78,putusan_narkotika_028.pdf,24,Farihah,Farihah,verified
+P028,dendaRupiah,1000000000,putusan_narkotika_028.pdf,24,Farihah,Farihah,verified
+P029,nomorPerkara,162/Pid.Sus/2026/PN Bks,putusan_narkotika_029.pdf,1,Farihah,Farihah,verified
+P029,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_029.pdf,1,Farihah,Farihah,verified
+P029,tanggalPutusan,2026-06-17,putusan_narkotika_029.pdf,25,Farihah,Farihah,verified
+P029,jenisNarkotika,Metamfetamina,putusan_narkotika_029.pdf,5,Farihah,Farihah,verified
+P029,beratBarangBuktiGram,271.5205,putusan_narkotika_029.pdf,4,Farihah,Farihah,verified
+P029,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009 tentang Narkotika jo UU No. 1 Tahun 2023 tentang KUHP jo UU No. 1 Tahun 2026 tentang Penyesuaian Pidana,putusan_narkotika_029.pdf,24,Farihah,Farihah,verified
+P029,tuntutanBulan,156,putusan_narkotika_029.pdf,2,Farihah,Farihah,verified
+P029,vonisBulan,120,putusan_narkotika_029.pdf,24,Farihah,Farihah,verified
+P029,dendaRupiah,1000000000,putusan_narkotika_029.pdf,24,Farihah,Farihah,verified
+P030,nomorPerkara,163/Pid.Sus/2025/PN Bks,putusan_narkotika_030.pdf,1,Farihah,Farihah,verified
+P030,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_030.pdf,1,Farihah,Farihah,verified
+P030,tanggalPutusan,2025-06-30,putusan_narkotika_030.pdf,21,Farihah,Farihah,verified
+P030,jenisNarkotika,MDMB-4en-PINACA,putusan_narkotika_030.pdf,5,Farihah,Farihah,verified
+P030,beratBarangBuktiGram,13.839,putusan_narkotika_030.pdf,5,Farihah,Farihah,verified
+P030,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_narkotika_030.pdf,19,Farihah,Farihah,verified
+P030,tuntutanBulan,108,putusan_narkotika_030.pdf,2,Farihah,Farihah,verified
+P030,vonisBulan,102,putusan_narkotika_030.pdf,20,Farihah,Farihah,verified
+P030,dendaRupiah,1000000000,putusan_narkotika_030.pdf,20,Farihah,Farihah,verified
+P031,nomorPerkara,166/Pid.Sus/2026/PN Bks,putusan_narkotika_031.pdf,1,Farihah,Farihah,verified
+P031,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_031.pdf,1,Farihah,Farihah,verified
+P031,tanggalPutusan,2026-07-08,putusan_narkotika_031.pdf,34,Farihah,Farihah,verified
+P031,jenisNarkotika,"Metamfetamina, Ganja",putusan_narkotika_031.pdf,8,Farihah,Farihah,verified
+P031,beratBarangBuktiGram,246.82,putusan_narkotika_031.pdf,7,Farihah,Farihah,verified
+P031,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika jo UU No. 1 Tahun 2023 tentang KUHP jo UU No. 1 Tahun 2026 tentang Penyesuaian Pidana,putusan_narkotika_031.pdf,30,Farihah,Farihah,verified
+P031,tuntutanBulan,144,putusan_narkotika_031.pdf,2,Farihah,Farihah,verified
+P031,vonisBulan,132,putusan_narkotika_031.pdf,33,Farihah,Farihah,verified
+P031,dendaRupiah,1000000000,putusan_narkotika_031.pdf,33,Farihah,Farihah,verified
+P032,nomorPerkara,167/Pid.Sus/2026/PN Bks,putusan_narkotika_032.pdf,1,Farihah,Farihah,verified
+P032,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_032.pdf,1,Farihah,Farihah,verified
+P032,tanggalPutusan,2026-07-08,putusan_narkotika_032.pdf,30,Farihah,Farihah,verified
+P032,jenisNarkotika,"Metamfetamina, Ganja",putusan_narkotika_032.pdf,6,Farihah,Farihah,verified
+P032,beratBarangBuktiGram,246.82,putusan_narkotika_032.pdf,6,Farihah,Farihah,verified
+P032,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika jo UU No. 1 Tahun 2023 tentang KUHP jo UU No. 1 Tahun 2026 tentang Penyesuaian Pidana,putusan_narkotika_032.pdf,25,Farihah,Farihah,verified
+P032,tuntutanBulan,144,putusan_narkotika_032.pdf,2,Farihah,Farihah,verified
+P032,vonisBulan,132,putusan_narkotika_032.pdf,29,Farihah,Farihah,verified
+P032,dendaRupiah,1000000000,putusan_narkotika_032.pdf,29,Farihah,Farihah,verified
+P033,nomorPerkara,200/Pid.Sus/2025/PN Bks,putusan_narkotika_033.pdf,1,Farihah,Farihah,verified
+P033,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_033.pdf,1,Farihah,Farihah,verified
+P033,tanggalPutusan,2025-07-23,putusan_narkotika_033.pdf,28,Farihah,Farihah,verified
+P033,jenisNarkotika,Ganja,putusan_narkotika_033.pdf,5,Farihah,Farihah,verified
+P033,beratBarangBuktiGram,10.1797,putusan_narkotika_033.pdf,5,Farihah,Farihah,verified
+P033,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_narkotika_033.pdf,27,Farihah,Farihah,verified
+P033,tuntutanBulan,96,putusan_narkotika_033.pdf,2,Farihah,Farihah,verified
+P033,vonisBulan,84,putusan_narkotika_033.pdf,28,Farihah,Farihah,verified
+P033,dendaRupiah,1000000000,putusan_narkotika_033.pdf,28,Farihah,Farihah,verified
+P034,nomorPerkara,203/Pid.Sus/2026/PN Bks,putusan_narkotika_034.pdf,1,Farihah,Farihah,verified
+P034,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_034.pdf,1,Farihah,Farihah,verified
+P034,tanggalPutusan,2026-07-08,putusan_narkotika_034.pdf,26,Farihah,Farihah,verified
+P034,jenisNarkotika,MDMB-4en PINACA,putusan_narkotika_034.pdf,5,Farihah,Farihah,verified
+P034,beratBarangBuktiGram,116.6733,putusan_narkotika_034.pdf,5,Farihah,Farihah,verified
+P034,pasalTerbukti,Pasal 114 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika Jo. UU No. 1 Tahun 2023 KUHP Jo UU No. 1 Tahun 2026,putusan_narkotika_034.pdf,25,Farihah,Farihah,verified
+P034,tuntutanBulan,90,putusan_narkotika_034.pdf,2,Farihah,Farihah,verified
+P034,vonisBulan,60,putusan_narkotika_034.pdf,25,Farihah,Farihah,verified
+P034,dendaRupiah,1000000000,putusan_narkotika_034.pdf,25,Farihah,Farihah,verified
+P035,nomorPerkara,206/Pid.Sus/2026/PN Bks,putusan_narkotika_035.pdf,1,Farihah,Farihah,verified
+P035,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_035.pdf,1,Farihah,Farihah,verified
+P035,tanggalPutusan,2026-07-08,putusan_narkotika_035.pdf,45,Farihah,Farihah,verified
+P035,jenisNarkotika,Metamfetamina,putusan_narkotika_035.pdf,7,Farihah,Farihah,verified
+P035,beratBarangBuktiGram,35.441,putusan_narkotika_035.pdf,7,Farihah,Farihah,verified
+P035,pasalTerbukti,Pasal 114 ayat (2) Jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 Tentang Narkotika Jo UU No. 1 Tahun 2023 KUHP Jo UU No. 1 Tahun 2026,putusan_narkotika_035.pdf,43,Farihah,Farihah,verified
+P035,tuntutanBulan,120,putusan_narkotika_035.pdf,2,Farihah,Farihah,verified
+P035,vonisBulan,54,putusan_narkotika_035.pdf,44,Farihah,Farihah,verified
+P035,dendaRupiah,2600000000,putusan_narkotika_035.pdf,44,Farihah,Farihah,verified
+P036,nomorPerkara,207/Pid.Sus/2026/PN Bks,putusan_narkotika_036.pdf,1,Farihah,Farihah,verified
+P036,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_036.pdf,1,Farihah,Farihah,verified
+P036,tanggalPutusan,2026-07-08,putusan_narkotika_036.pdf,47,Farihah,Farihah,verified
+P036,jenisNarkotika,Metamfetamina,putusan_narkotika_036.pdf,8,Farihah,Farihah,verified
+P036,beratBarangBuktiGram,35.441,putusan_narkotika_036.pdf,8,Farihah,Farihah,verified
+P036,pasalTerbukti,Pasal 114 ayat (2) Jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 KUHP jo UU No. 1 Tahun 2026,putusan_narkotika_036.pdf,45,Farihah,Farihah,verified
+P036,tuntutanBulan,120,putusan_narkotika_036.pdf,2,Farihah,Farihah,verified
+P036,vonisBulan,54,putusan_narkotika_036.pdf,46,Farihah,Farihah,verified
+P036,dendaRupiah,2600000000,putusan_narkotika_036.pdf,46,Farihah,Farihah,verified
+P037,nomorPerkara,208/Pid.Sus/2025/PN Bks,putusan_narkotika_037.pdf,1,Farihah,Farihah,verified
+P037,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_037.pdf,1,Farihah,Farihah,verified
+P037,tanggalPutusan,2025-07-23,putusan_narkotika_037.pdf,26,Farihah,Farihah,verified
+P037,jenisNarkotika,Ganja,putusan_narkotika_037.pdf,5,Farihah,Farihah,verified
+P037,beratBarangBuktiGram,35.955,putusan_narkotika_037.pdf,5,Farihah,Farihah,verified
+P037,pasalTerbukti,Pasal 114 ayat (1) Jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009,putusan_narkotika_037.pdf,25,Farihah,Farihah,verified
+P037,tuntutanBulan,96,putusan_narkotika_037.pdf,2,Farihah,Farihah,verified
+P037,vonisBulan,72,putusan_narkotika_037.pdf,25,Farihah,Farihah,verified
+P037,dendaRupiah,1000000000,putusan_narkotika_037.pdf,25,Farihah,Farihah,verified
+P038,nomorPerkara,209/Pid.Sus/2025/PN Bks,putusan_narkotika_038.pdf,1,Farihah,Farihah,verified
+P038,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_038.pdf,1,Farihah,Farihah,verified
+P038,tanggalPutusan,2025-07-23,putusan_narkotika_038.pdf,32,Farihah,Farihah,verified
+P038,jenisNarkotika,Ganja,putusan_narkotika_038.pdf,6,Farihah,Farihah,verified
+P038,beratBarangBuktiGram,38.1058,putusan_narkotika_038.pdf,6,Farihah,Farihah,verified
+P038,pasalTerbukti,Pasal 114 ayat (1) Jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009,putusan_narkotika_038.pdf,31,Farihah,Farihah,verified
+P038,tuntutanBulan,96,putusan_narkotika_038.pdf,2,Farihah,Farihah,verified
+P038,vonisBulan,72,putusan_narkotika_038.pdf,31,Farihah,Farihah,verified
+P038,dendaRupiah,1000000000,putusan_narkotika_038.pdf,31,Farihah,Farihah,verified
+P039,nomorPerkara,218/Pid.Sus/2026/PN Bks,putusan_narkotika_039.pdf,1,Farihah,Farihah,verified
+P039,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_039.pdf,1,Farihah,Farihah,verified
+P039,tanggalPutusan,2026-07-29,putusan_narkotika_039.pdf,97,Farihah,Farihah,verified
+P039,jenisNarkotika,MDMB-4en PINACA,putusan_narkotika_039.pdf,6,Farihah,Farihah,verified
+P039,beratBarangBuktiGram,140.4111,putusan_narkotika_039.pdf,6,Farihah,Farihah,verified
+P039,pasalTerbukti,Pasal 114 ayat (1) jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009,putusan_narkotika_039.pdf,95,Farihah,Farihah,verified
+P039,tuntutanBulan,96,putusan_narkotika_039.pdf,2,Farihah,Farihah,verified
+P039,vonisBulan,96,putusan_narkotika_039.pdf,95,Farihah,Farihah,verified
+P039,dendaRupiah,1000000000,putusan_narkotika_039.pdf,95,Farihah,Farihah,verified
+P040,nomorPerkara,229/Pid.Sus/2026/PN.Bks,putusan_narkotika_040.pdf,1,Farihah,Farihah,verified
+P040,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_040.pdf,1,Farihah,Farihah,verified
+P040,tanggalPutusan,2026-08-05,putusan_narkotika_040.pdf,26,Farihah,Farihah,verified
+P040,jenisNarkotika,"Metamfetamina; Ganja",putusan_narkotika_040.pdf,6,Farihah,Farihah,verified
+P040,beratBarangBuktiGram,11.05,putusan_narkotika_040.pdf,6,Farihah,Farihah,verified
+P040,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 jo UU RI No. 1 Tahun 2026 dan Pasal 111 ayat (1) UU RI No. 35 Tahun 2009 jo UU RI No. 1 Tahun 2026,putusan_narkotika_040.pdf,24,Farihah,Farihah,verified
+P040,tuntutanBulan,84,putusan_narkotika_040.pdf,2,Farihah,Farihah,verified
+P040,vonisBulan,72,putusan_narkotika_040.pdf,25,Farihah,Farihah,verified
+P040,dendaRupiah,1000000000,putusan_narkotika_040.pdf,25,Farihah,Farihah,verified
+P041,nomorPerkara,241/Pid.Sus/2026/PN Bks,putusan_narkotika_041.pdf,1,Farihah,Farihah,verified
+P041,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_041.pdf,1,Farihah,Farihah,verified
+P041,tanggalPutusan,2026-07-08,putusan_narkotika_041.pdf,29,Farihah,Farihah,verified
+P041,jenisNarkotika,MDMB-4en PINACA,putusan_narkotika_041.pdf,7,Farihah,Farihah,verified
+P041,beratBarangBuktiGram,918.5007,putusan_narkotika_041.pdf,7,Farihah,Farihah,verified
+P041,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 jo UU No. 1 Tahun 2026,putusan_narkotika_041.pdf,28,Farihah,Farihah,verified
+P041,tuntutanBulan,96,putusan_narkotika_041.pdf,2,Farihah,Farihah,verified
+P041,vonisBulan,90,putusan_narkotika_041.pdf,29,Farihah,Farihah,verified
+P041,dendaRupiah,0,putusan_narkotika_041.pdf,29,Farihah,Farihah,verified
+P042,nomorPerkara,259/Pid.Sus/2026/PN Bks,putusan_narkotika_042.pdf,1,Farihah,Farihah,verified
+P042,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_042.pdf,1,Farihah,Farihah,verified
+P042,tanggalPutusan,2026-08-12,putusan_narkotika_042.pdf,34,Farihah,Farihah,verified
+P042,jenisNarkotika,MDMB-4en PINACA,putusan_narkotika_042.pdf,5,Farihah,Farihah,verified
+P042,beratBarangBuktiGram,1.7528,putusan_narkotika_042.pdf,5,Farihah,Farihah,verified
+P042,pasalTerbukti,Pasal 114 ayat (1) Jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 jo UU No. 1 Tahun 2026,putusan_narkotika_042.pdf,33,Farihah,Farihah,verified
+P042,tuntutanBulan,72,putusan_narkotika_042.pdf,2,Farihah,Farihah,verified
+P042,vonisBulan,60,putusan_narkotika_042.pdf,33,Farihah,Farihah,verified
+P042,dendaRupiah,1000000000,putusan_narkotika_042.pdf,33,Farihah,Farihah,verified
+P043,nomorPerkara,260/Pid.Sus/2026/PN Bks,putusan_narkotika_043.pdf,1,Farihah,Farihah,verified
+P043,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_043.pdf,1,Farihah,Farihah,verified
+P043,tanggalPutusan,2026-08-12,putusan_narkotika_043.pdf,32,Farihah,Farihah,verified
+P043,jenisNarkotika,MDMB-4en PINACA,putusan_narkotika_043.pdf,5,Farihah,Farihah,verified
+P043,beratBarangBuktiGram,4.5415,putusan_narkotika_043.pdf,5,Farihah,Farihah,verified
+P043,pasalTerbukti,Pasal 114 ayat (1) Jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 jo UU No. 1 Tahun 2026,putusan_narkotika_043.pdf,31,Farihah,Farihah,verified
+P043,tuntutanBulan,72,putusan_narkotika_043.pdf,2,Farihah,Farihah,verified
+P043,vonisBulan,60,putusan_narkotika_043.pdf,31,Farihah,Farihah,verified
+P043,dendaRupiah,1000000000,putusan_narkotika_043.pdf,31,Farihah,Farihah,verified
+P044,nomorPerkara,277/Pid.Sus/2026/PN Bks,putusan_narkotika_044_2.pdf,1,Farihah,Farihah,verified
+P044,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_044_2.pdf,1,Farihah,Farihah,verified
+P044,tanggalPutusan,2026-08-12,putusan_narkotika_044_2.pdf,21,Farihah,Farihah,verified
+P044,jenisNarkotika,Sediaan Farmasi (Tramadol dan Trihexyphenidyl/Hexymer),putusan_narkotika_044_2.pdf,5,Farihah,Farihah,verified
+P044,beratBarangBuktiGram,0,putusan_narkotika_044_2.pdf,4,Farihah,Farihah,verified
+P044,pasalTerbukti,Pasal 435 jo Pasal 138 ayat (2) UU No. 17 Tahun 2023 tentang Kesehatan jo UU No. 1 Tahun 2026 tentang Penyesuaian Pidana,putusan_narkotika_044_2.pdf,20,Farihah,Farihah,verified
+P044,tuntutanBulan,48,putusan_narkotika_044_2.pdf,2,Farihah,Farihah,verified
+P044,vonisBulan,42,putusan_narkotika_044_2.pdf,20,Farihah,Farihah,verified
+P044,dendaRupiah,0,putusan_narkotika_044_2.pdf,20,Farihah,Farihah,verified
+P045,nomorPerkara,287/Pid.Sus/2026/PN Bks,putusan_narkotika_045_2.pdf,1,Farihah,Farihah,verified
+P045,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_045_2.pdf,1,Farihah,Farihah,verified
+P045,tanggalPutusan,2026-09-02,putusan_narkotika_045_2.pdf,27,Farihah,Farihah,verified
+P045,jenisNarkotika,Ganja,putusan_narkotika_045_2.pdf,5,Farihah,Farihah,verified
+P045,beratBarangBuktiGram,47.0817,putusan_narkotika_045_2.pdf,2,Farihah,Farihah,verified
+P045,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 jo UU No. 1 Tahun 2026,putusan_narkotika_045_2.pdf,26,Farihah,Farihah,verified
+P045,tuntutanBulan,96,putusan_narkotika_045_2.pdf,2,Farihah,Farihah,verified
+P045,vonisBulan,84,putusan_narkotika_045_2.pdf,26,Farihah,Farihah,verified
+P045,dendaRupiah,1000000000,putusan_narkotika_045_2.pdf,26,Farihah,Farihah,verified
+P046,nomorPerkara,285/Pid.Sus/2026/PN Bks,putusan_narkotika_046_2.pdf,1,Farihah,Farihah,verified
+P046,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_046_2.pdf,1,Farihah,Farihah,verified
+P046,tanggalPutusan,2026-08-12,putusan_narkotika_046_2.pdf,26,Farihah,Farihah,verified
+P046,jenisNarkotika,Ganja,putusan_narkotika_046_2.pdf,5,Farihah,Farihah,verified
+P046,beratBarangBuktiGram,1203.75,putusan_narkotika_046_2.pdf,3,Farihah,Farihah,verified
+P046,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 jo UU No. 1 Tahun 2026,putusan_narkotika_046_2.pdf,25,Farihah,Farihah,verified
+P046,tuntutanBulan,144,putusan_narkotika_046_2.pdf,2,Farihah,Farihah,verified
+P046,vonisBulan,108,putusan_narkotika_046_2.pdf,25,Farihah,Farihah,verified
+P046,dendaRupiah,0,putusan_narkotika_046_2.pdf,25,Farihah,Farihah,verified
+P047,nomorPerkara,294/Pid.Sus/2026/PN Bks,putusan_narkotika_047_2.pdf,1,Farihah,Farihah,verified
+P047,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_047_2.pdf,1,Farihah,Farihah,verified
+P047,tanggalPutusan,2026-08-12,putusan_narkotika_047_2.pdf,22,Farihah,Farihah,verified
+P047,jenisNarkotika,Ganja,putusan_narkotika_047_2.pdf,5,Farihah,Farihah,verified
+P047,beratBarangBuktiGram,21.687,putusan_narkotika_047_2.pdf,5,Farihah,Farihah,verified
+P047,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 jo UU No. 1 Tahun 2026,putusan_narkotika_047_2.pdf,22,Farihah,Farihah,verified
+P047,tuntutanBulan,90,putusan_narkotika_047_2.pdf,2,Farihah,Farihah,verified
+P047,vonisBulan,72,putusan_narkotika_047_2.pdf,22,Farihah,Farihah,verified
+P047,dendaRupiah,0,putusan_narkotika_047_2.pdf,22,Farihah,Farihah,verified
+P048,nomorPerkara,300/Pid.Sus/2026/PN Bks,putusan_narkotika_048_2.pdf,1,Farihah,Farihah,verified
+P048,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_048_2.pdf,1,Farihah,Farihah,verified
+P048,tanggalPutusan,2026-08-24,putusan_narkotika_048_2.pdf,26,Farihah,Farihah,verified
+P048,jenisNarkotika,Ganja,putusan_narkotika_048_2.pdf,6,Farihah,Farihah,verified
+P048,beratBarangBuktiGram,36.7940,putusan_narkotika_048_2.pdf,6,Farihah,Farihah,verified
+P048,pasalTerbukti,Pasal 111 ayat (1) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 jo UU No. 1 Tahun 2026,putusan_narkotika_048_2.pdf,26,Farihah,Farihah,verified
+P048,tuntutanBulan,96,putusan_narkotika_048_2.pdf,2,Farihah,Farihah,verified
+P048,vonisBulan,72,putusan_narkotika_048_2.pdf,26,Farihah,Farihah,verified
+P048,dendaRupiah,1000000000,putusan_narkotika_048_2.pdf,26,Farihah,Farihah,verified
+P049,nomorPerkara,303/Pid.Sus/2026/PN Bks,putusan_narkotika_049_2.pdf,1,Farihah,Farihah,verified
+P049,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_049_2.pdf,1,Farihah,Farihah,verified
+P049,tanggalPutusan,2026-08-12,putusan_narkotika_049_2.pdf,45,Farihah,Farihah,verified
+P049,jenisNarkotika,MDMB-4en PINACA,putusan_narkotika_049_2.pdf,24,Farihah,Farihah,verified
+P049,beratBarangBuktiGram,106.6737,putusan_narkotika_049_2.pdf,6,Farihah,Farihah,verified
+P049,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 jo UU No. 1 Tahun 2026,putusan_narkotika_049_2.pdf,43,Farihah,Farihah,verified
+P049,tuntutanBulan,108,putusan_narkotika_049_2.pdf,2,Farihah,Farihah,verified
+P049,vonisBulan,84,putusan_narkotika_049_2.pdf,44,Farihah,Farihah,verified
+P049,dendaRupiah,1000000000,putusan_narkotika_049_2.pdf,44,Farihah,Farihah,verified
+P050,nomorPerkara,330/Pid.Sus/2026/PN Bks,putusan_narkotika_050_2.pdf,1,Farihah,Farihah,verified
+P050,pengadilan,Pengadilan Negeri Bekasi,putusan_narkotika_050_2.pdf,1,Farihah,Farihah,verified
+P050,tanggalPutusan,2026-09-02,putusan_narkotika_050_2.pdf,32,Farihah,Farihah,verified
+P050,jenisNarkotika,Metamfetamina,putusan_narkotika_050_2.pdf,5,Farihah,Farihah,verified
+P050,beratBarangBuktiGram,2.6834,putusan_narkotika_050_2.pdf,5,Farihah,Farihah,verified
+P050,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 jo UU No. 1 Tahun 2023 jo UU No. 1 Tahun 2026,putusan_narkotika_050_2.pdf,31,Farihah,Farihah,verified
+P050,tuntutanBulan,90,putusan_narkotika_050_2.pdf,2,Farihah,Farihah,verified
+P050,vonisBulan,72,putusan_narkotika_050_2.pdf,31,Farihah,Farihah,verified
+P050,dendaRupiah,1000000000,putusan_narkotika_050_2.pdf,31,Farihah,Farihah,verified

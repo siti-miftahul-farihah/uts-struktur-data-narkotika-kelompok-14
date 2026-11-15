@@ -1,65 +1,92 @@
 package org.example;
 
+import java.time.LocalDate;
+
 public class PutusanNarkotika {
-    private final String idPutusan;
-    private final String nomorPutusan;
+    private final String caseId;
+    private final String nomorPerkara;
     private final String pengadilan;
-    private final int tahunPutus;
+    private final LocalDate tanggalPutusan;
+    private final String terdakwaKode;
     private final String jenisNarkotika;
-    private final double beratGram;
+    private final double beratBarangBuktiGram;
     private final String pasalDakwaan;
-    private final int lamaPidanaBulan;
+    private final String pasalTerbukti;
+    private final int tuntutanBulan;
+    private final int vonisBulan;
     private final long dendaRupiah;
-    private final String statusHukum;
+    private final String barangBukti;
+    private final String keadaanMemberatkan;
+    private final String keadaanMeringankan;
+    private final String sourcePages;
 
     public PutusanNarkotika(
-            String idPutusan,
-            String nomorPutusan,
+            String caseId,
+            String nomorPerkara,
             String pengadilan,
-            int tahunPutus,
+            LocalDate tanggalPutusan,
+            String terdakwaKode,
             String jenisNarkotika,
-            double beratGram,
+            double beratBarangBuktiGram,
             String pasalDakwaan,
-            int lamaPidanaBulan,
+            String pasalTerbukti,
+            int tuntutanBulan,
+            int vonisBulan,
             long dendaRupiah,
-            String statusHukum
+            String barangBukti,
+            String keadaanMemberatkan,
+            String keadaanMeringankan,
+            String sourcePages
     ) {
-        if (idPutusan == null || idPutusan.isBlank()) {
-            throw new IllegalArgumentException("ID putusan tidak boleh kosong.");
+        if (caseId == null || caseId.isBlank()) {
+            throw new IllegalArgumentException("caseId tidak boleh kosong.");
         }
-        if (nomorPutusan == null || nomorPutusan.isBlank()) {
-            throw new IllegalArgumentException("Nomor putusan tidak boleh kosong.");
+        if (nomorPerkara == null || nomorPerkara.isBlank()) {
+            throw new IllegalArgumentException("nomorPerkara tidak boleh kosong.");
         }
-        if (beratGram < 0 || lamaPidanaBulan < 0 || dendaRupiah < 0) {
-            throw new IllegalArgumentException("Berat, lama pidana, dan denda tidak boleh negatif.");
+        if (beratBarangBuktiGram < 0 || tuntutanBulan < 0 || vonisBulan < 0 || dendaRupiah < 0) {
+            throw new IllegalArgumentException("Berat, tuntutan, vonis, dan denda tidak boleh negatif.");
         }
 
-        this.idPutusan = idPutusan;
-        this.nomorPutusan = nomorPutusan;
+        this.caseId = caseId;
+        this.nomorPerkara = nomorPerkara;
         this.pengadilan = pengadilan;
-        this.tahunPutus = tahunPutus;
+        this.tanggalPutusan = tanggalPutusan;
+        this.terdakwaKode = terdakwaKode;
         this.jenisNarkotika = jenisNarkotika;
-        this.beratGram = beratGram;
+        this.beratBarangBuktiGram = beratBarangBuktiGram;
         this.pasalDakwaan = pasalDakwaan;
-        this.lamaPidanaBulan = lamaPidanaBulan;
+        this.pasalTerbukti = pasalTerbukti;
+        this.tuntutanBulan = tuntutanBulan;
+        this.vonisBulan = vonisBulan;
         this.dendaRupiah = dendaRupiah;
-        this.statusHukum = statusHukum;
+        this.barangBukti = barangBukti;
+        this.keadaanMemberatkan = keadaanMemberatkan;
+        this.keadaanMeringankan = keadaanMeringankan;
+        this.sourcePages = sourcePages;
     }
 
-    public String getIdPutusan() { return idPutusan; }
-    public String getNomorPutusan() { return nomorPutusan; }
+    public String getCaseId() { return caseId; }
+    public String getIdPutusan() { return caseId; } // Kompatibilitas sementara dengan PutusanLinkedList
+    public String getNomorPerkara() { return nomorPerkara; }
     public String getPengadilan() { return pengadilan; }
-    public int getTahunPutus() { return tahunPutus; }
+    public LocalDate getTanggalPutusan() { return tanggalPutusan; }
+    public String getTerdakwaKode() { return terdakwaKode; }
     public String getJenisNarkotika() { return jenisNarkotika; }
-    public double getBeratGram() { return beratGram; }
+    public double getBeratBarangBuktiGram() { return beratBarangBuktiGram; }
     public String getPasalDakwaan() { return pasalDakwaan; }
-    public int getLamaPidanaBulan() { return lamaPidanaBulan; }
+    public String getPasalTerbukti() { return pasalTerbukti; }
+    public int getTuntutanBulan() { return tuntutanBulan; }
+    public int getVonisBulan() { return vonisBulan; }
     public long getDendaRupiah() { return dendaRupiah; }
-    public String getStatusHukum() { return statusHukum; }
+    public String getBarangBukti() { return barangBukti; }
+    public String getKeadaanMemberatkan() { return keadaanMemberatkan; }
+    public String getKeadaanMeringankan() { return keadaanMeringankan; }
+    public String getSourcePages() { return sourcePages; }
 
     @Override
     public String toString() {
-        return String.format("[%s] %s - %s (%.2f gr) | Pidana: %d bln",
-                idPutusan, nomorPutusan, jenisNarkotika, beratGram, lamaPidanaBulan);
+        return String.format("[%s] %s | %s (%.2f gr) | Vonis: %d bln",
+                caseId, nomorPerkara, jenisNarkotika, beratBarangBuktiGram, vonisBulan);
     }
 }
